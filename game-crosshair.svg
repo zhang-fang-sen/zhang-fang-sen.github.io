@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <!-- 对照 Unity 运行时的 32px 纹理：半径 10px 的青色圆环与半径 2.2px 的中心点。 -->
+  <circle cx="15.5" cy="15.5" r="10" fill="none" stroke="#4dfff2" stroke-opacity=".95" stroke-width="3.2"/>
+  <circle cx="15.5" cy="15.5" r="2.2" fill="#4dfff2" fill-opacity=".95"/>
+</svg>
